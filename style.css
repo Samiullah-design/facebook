@@ -1,0 +1,71 @@
+body{
+    font-family: font-family, 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+.fb{
+   
+    padding: 10px 280px;
+    font-size:40px;
+    color: whitesmoke; 
+    display: inline block;
+   
+}
+#navContainer{ 
+    height: 85px;
+    display: inline block;
+    background:  #3b5989;
+}
+
+.logInForm{
+    display: inline block;
+    position: absolute;
+    
+}
+
+.email{
+    color: white;
+    position: absolute;
+    left: 820px;
+    bottom:37px;
+
+}
+.pass{
+    color: white;
+    position: absolute;
+    left: 1000;
+    bottom: 37px;
+}
+.btn1{
+    background: #4267b2;
+    color: white;
+    border: none;
+    position: absolute;
+    left: 1160;
+    bottom: 37px;
+    width: 50px;
+    height: 20;
+    
+}
+.p1{
+    position: relative;
+    top: 10;
+    font-size: 15;
+}
+.p2{
+    position: relative;
+    top: 10px;
+    font-size: 15;
+}
+input {
+    width: 150px;
+    
+}
+a{
+    font-size: 13px;
+    color: rgba(238, 234, 234 ,0.6);
+    position: relative;
+    top: 6;
+    text-decoration: none;
+}

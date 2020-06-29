@@ -1,0 +1,89 @@
+.mainContainer{
+    background: linear-gradient(#fffafa , rgb(231, 231, 226));
+    height: 100%;
+   
+    
+}
+ .text1{
+  width: 400px;
+  height: 200px;
+  padding: 20px 300px;  
+  text-align: justify; 
+  text-align-last: bottom;
+} 
+.DetailForm{
+    margin:0 auto;
+    padding:0px;
+    float: right;
+    position: relative;
+    bottom: 250;
+    left: 250px;
+    width:980px;
+}
+.DetailForm h1{
+    
+    font-size:37px;
+    color:#2E2E2E;
+
+}
+.DetailForm p{
+    font-size:18px;
+    color:#2E2E2E;
+}
+.DetailForm li{
+    list-style-type: none;
+    margin-top:10px;
+}
+
+.DetailForm li #name{
+    width: 150px;
+    float: left;
+}
+.DetailForm li #surname{
+  width: 150px;
+  margin-left: 2%;
+  
+}
+.DetailForm li input[type= 'text']{
+    width:320;
+    height:40px;
+    border-radius:5px;
+    padding-left:10px;
+    font-size:18px;
+    border:1px solid #BDBDBD;
+}
+select{
+    padding: 6px;
+    float: left;
+    border: none;
+}
+.DetailForm li input[type='password']{
+    width:320;
+    height:40px;
+    border-radius:5px;
+    padding-left:10px;
+    font-size:18px;
+    border:1px solid #BDBDBD;
+}
+.DetailForm input[type= 'radio']{
+    padding: 10px;
+    width: 30px;
+    
+}
+.p2{
+    width: 400px;
+    font-size: 6px;
+}
+
+#createAccount{
+    padding: 8px 40px 8px 40px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    background-color: #3d7d7a;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    
+}
